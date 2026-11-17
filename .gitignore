@@ -3,7 +3,26 @@
 !/data/README.md
 /cnn_results/
 /mlp_results/
-/figures/
+/figures/*
+# Audited figures from the two executed notebooks.
+!/figures/cnn_augmentation_example.png
+!/figures/cnn_mlp_test_confusion_matrices.png
+!/figures/cnn_mlp_training_histories.png
+!/figures/cnn_selected_test_roc_precision_recall.png
+!/figures/cnn_training_light_curve_examples.png
+!/figures/cnn_validation_confusion_matrices.png
+!/figures/eda_class_distribution.png
+!/figures/eda_feature_correlations.png
+!/figures/eda_period_by_class.png
+!/figures/feature_models_validation_precision_recall.png
+!/figures/logreg_validation_confusion_matrix.png
+!/figures/logreg_validation_f2_confusion_matrix.png
+!/figures/logreg_validation_precision_recall.png
+!/figures/logreg_validation_roc.png
+!/figures/mlp_training_history.png
+!/figures/mlp_validation_f2_confusion_matrix.png
+!/figures/weighted_logreg_validation_confusion_matrix.png
+!/figures/weighted_logreg_validation_f2_confusion_matrix.png
 /fits/
 /candidates/
 /kepler_candidates.csv
