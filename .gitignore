@@ -1,0 +1,28 @@
+# Supplied inputs and everything generated locally by the experiments.
+/data/*
+!/data/README.md
+/cnn_results/
+/mlp_results/
+/figures/
+/fits/
+/candidates/
+/kepler_candidates.csv
+/koi_catalog.csv
+/kepler_process_improved.pdf
+*.fits
+*.npz
+*.pt
+execution_report.md
+run_environment.json
+
+# Local environment, editor, notebook and macOS files.
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+._*
+__MACOSX/
